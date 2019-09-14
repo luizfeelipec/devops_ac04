@@ -1,5 +1,5 @@
 from unittest import TestCase
-from com.kuma.operacoes import Operacoes
+from com.carvalho.operacoes import Operacoes
 
 class TestOperacoes(TestCase):
 
